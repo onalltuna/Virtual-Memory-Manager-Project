@@ -55,7 +55,7 @@ int search_tlb(unsigned char logical_page) {
     /* TODO */
     for(int i = 0; i < TLB_SIZE; i++)
     {
-      if (tlb[i].logical == logical_page)
+      if ((tlb[i].logical == logical_page)&& tlbindex > 0)
       {
         return tlb[i].physical;
       }
@@ -67,6 +67,10 @@ int search_tlb(unsigned char logical_page) {
 /* Adds the specified mapping to the TLB, replacing the oldest mapping (FIFO replacement). */
 void add_to_tlb(unsigned char logical, unsigned char physical) {
     /* TODO */
+    tlb[tlbindex%TLB_SIZE].logical = logical;
+    tlb[tlbindex%TLB_SIZE].physical = physical;
+    tlbindex++;
+
 }
 
 
@@ -109,23 +113,24 @@ int main(int argc, const char *argv[])
 
     /* TODO 
     / Calculate the page offset and logical page number from logical_address */
-    printf("address: %d\n",logical_address);
+    // printf("address: %d\n",logical_address);
     int offset = (logical_address & OFFSET_MASK);
-    printf("offset: %d\n",offset);
+    // printf("offset: %d\n",offset);
     int logical_page = (logical_address ) >> 10;
-    printf("page: %d\n",logical_page);
+    // printf("page: %d\n",logical_page);
     // exit(1);
     ///////
     
-    // int physical_page = search_tlb(logical_page);
-    int physical_page = pagetable[logical_page];
-    printf("physical: %d\n",physical_page);
+    int physical_page = search_tlb(logical_page);
+    // int physical_page = pagetable[logical_page];
+    // printf("physical: %d\n",physical_page);
     // TLB hit
-    // if (physical_page != -1) {
-    //   tlb_hits++;
-    //   // TLB miss
-    // } else {
-    //   physical_page = pagetable[logical_page];
+    if (physical_page != -1) {
+      // printf("Inside tlb hit\n");
+      tlb_hits++;
+      // TLB miss
+    } else {
+      physical_page = pagetable[logical_page];
       
       // Page fault
       if (physical_page == -1) {
@@ -133,6 +138,8 @@ int main(int argc, const char *argv[])
           // printf("aa:%d\n",*backing);
           pagetable[logical_page] = tableIndex;
           physical_page = tableIndex;
+          add_to_tlb(logical_page,physical_page);
+          page_faults++;
 
           FILE *fp;
           fp = fopen ("BACKING_STORE.bin","r");
@@ -141,17 +148,16 @@ int main(int argc, const char *argv[])
             printf("Failed to open the file \n");
           }
           fseek(fp, logical_page*PAGE_SIZE, SEEK_SET);
-          printf("here\n");
           fread(&main_memory[tableIndex*PAGE_SIZE],1, PAGE_SIZE,fp);
           fclose(fp);
 
           tableIndex++;
 
       }
-      printf("physical: %d\n", physical_page);
+      // printf("physical: %d\n", physical_page);
 
-      //   add_to_tlb(logical_page, physical_page);
-      // }
+        add_to_tlb(logical_page, physical_page);
+      }
 
       int physical_address = (physical_page << OFFSET_BITS) | offset;
       signed char value = main_memory[physical_page * PAGE_SIZE + offset];
