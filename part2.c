@@ -34,6 +34,7 @@ struct pageTableEntry
   unsigned char logical;
   unsigned char physical;
   int useCount;
+  int index;
 };
 
 struct pageTableEntry pagetable[PAGES];
@@ -52,7 +53,7 @@ signed char main_memory[MEMORY_SIZE];
 // Pointer to memory mapped backing file
 signed char *backing;
 
-int count[PAGE_SIZE] = {0};
+int count[PAGE_SIZE];
 
 int max(int a, int b)
 {
@@ -63,18 +64,18 @@ int max(int a, int b)
 
 int getLRU(struct pageTableEntry pagetable[])
 {
-    int index = 0; 
-    int min = pagetable[0].useCount;
+    int indextoReturn = 0; 
+    int min = pagetable[0].index;
 
     for(int i = 1; i < PAGES;i++)
     {
-      if(pagetable[i].useCount < min)
+      if(pagetable[i].index < min)
       {
-        index = i;
-        min = pagetable[i].useCount;
+        indextoReturn = i;
+        min = pagetable[i].index;
       }
     }
-    return index;
+    return indextoReturn;
 }
 
 /* Returns the physical address from TLB or -1 if not present. */
@@ -148,6 +149,14 @@ int main(int argc, const char *argv[])
     / Calculate the page offset and logical page number from logical_address */
     int offset = (logical_address & OFFSET_MASK);
     int logical_page = (logical_address) >> 10;
+    
+    for(int i = 0; i < PAGES; i++)
+    {
+      if(pagetable[i].logical == logical_page)
+      {
+        pagetable[i].index = memoryIndex;
+      }
+    }
     ///////
 
     int physical_page = search_tlb(logical_page);
@@ -161,9 +170,9 @@ int main(int argc, const char *argv[])
         if (logical_page == pagetable[i].logical)
         {
           pagetable[i].useCount++;
-          count[logical_page]++;
+          // count[logical_page] = count[logical_page]+1;
         }
-        printf("count: %d\n", count[logical_page]);
+        // printf("count: %d\n", count[logical_page]);
       }
       // TLB miss
     }
@@ -175,7 +184,7 @@ int main(int argc, const char *argv[])
         {
           physical_page = pagetable[i].physical;
           pagetable[i].useCount++;
-          count[logical_page]++;
+          // count[logical_page]++;
         }
       }
 
@@ -231,7 +240,8 @@ int main(int argc, const char *argv[])
           int temp = pagetable[indexToDelete].logical;
           pagetable[indexToDelete].logical = logical_page;
           pagetable[indexToDelete].physical = indexToDelete;
-          pagetable[indexToDelete].useCount = count[logical_page] + 1;
+          pagetable[indexToDelete].index = memoryIndex;
+          // printf("Count[logical_page]: %d\n",count[logical_page]);
           
 
           physical_page =  indexToDelete;
