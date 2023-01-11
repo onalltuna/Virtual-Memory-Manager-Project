@@ -1,138 +1,66 @@
-page fault handling with LRU, indexToDelete = 0
-page fault handling with LRU
 Virtual address: 28928 Physical address: 256 Value: 0
-page fault handling with LRU, indexToDelete = 1
-page fault handling with LRU
 Virtual address: 30711 Physical address: 2039 Value: -3
-page fault handling with LRU, indexToDelete = 2
-page fault handling with LRU
 Virtual address: 8800 Physical address: 2656 Value: 0
-page fault handling with LRU, indexToDelete = 3
-page fault handling with LRU
 Virtual address: 52335 Physical address: 3183 Value: 27
-page fault handling with LRU, indexToDelete = 4
-page fault handling with LRU
 Virtual address: 38775 Physical address: 4983 Value: -35
 Virtual address: 52704 Physical address: 3552 Value: 0
-page fault handling with LRU, indexToDelete = 5
-page fault handling with LRU
 Virtual address: 24380 Physical address: 5948 Value: 0
-page fault handling with LRU, indexToDelete = 6
-page fault handling with LRU
 Virtual address: 19602 Physical address: 6290 Value: 19
-page fault handling with LRU, indexToDelete = 7
-page fault handling with LRU
 Virtual address: 57998 Physical address: 7822 Value: 56
-page fault handling with LRU, indexToDelete = 8
-page fault handling with LRU
 Virtual address: 2919 Physical address: 9063 Value: -39
 Virtual address: 8362 Physical address: 2218 Value: 8
-page fault handling with LRU, indexToDelete = 9
-page fault handling with LRU
 Virtual address: 17884 Physical address: 9692 Value: 0
-page fault handling with LRU, indexToDelete = 10
-page fault handling with LRU
 Virtual address: 45737 Physical address: 10921 Value: 0
-page fault handling with LRU, indexToDelete = 11
-page fault handling with LRU
 Virtual address: 47894 Physical address: 12054 Value: 46
-page fault handling with LRU, indexToDelete = 12
-page fault handling with LRU
 Virtual address: 59667 Physical address: 12563 Value: 68
-page fault handling with LRU, indexToDelete = 13
-page fault handling with LRU
 Virtual address: 10385 Physical address: 13457 Value: 0
 Virtual address: 52782 Physical address: 3630 Value: 51
-page fault handling with LRU, indexToDelete = 14
-page fault handling with LRU
 Virtual address: 64416 Physical address: 15264 Value: 0
-page fault handling with LRU, indexToDelete = 15
-page fault handling with LRU
 Virtual address: 40946 Physical address: 16370 Value: 39
-page fault handling with LRU, indexToDelete = 16
-page fault handling with LRU
 Virtual address: 16778 Physical address: 16778 Value: 16
-page fault handling with LRU, indexToDelete = 17
-page fault handling with LRU
 Virtual address: 27159 Physical address: 17943 Value: -123
 Virtual address: 24324 Physical address: 5892 Value: 0
-page fault handling with LRU, indexToDelete = 18
-page fault handling with LRU
 Virtual address: 32450 Physical address: 19138 Value: 31
 Virtual address: 9108 Physical address: 2964 Value: 0
-page fault handling with LRU, indexToDelete = 19
-page fault handling with LRU
 Virtual address: 65305 Physical address: 20249 Value: 0
 Virtual address: 19575 Physical address: 6263 Value: 29
 Virtual address: 11117 Physical address: 14189 Value: 0
 Virtual address: 65170 Physical address: 20114 Value: 63
 Virtual address: 58013 Physical address: 7837 Value: 0
-page fault handling with LRU, indexToDelete = 20
-page fault handling with LRU
 Virtual address: 61676 Physical address: 20716 Value: 0
 Virtual address: 63510 Physical address: 14358 Value: 62
 Virtual address: 17458 Physical address: 9266 Value: 17
-page fault handling with LRU, indexToDelete = 21
-page fault handling with LRU
 Virtual address: 54675 Physical address: 21907 Value: 100
-page fault handling with LRU, indexToDelete = 22
-page fault handling with LRU
 Virtual address: 1713 Physical address: 23217 Value: 0
 Virtual address: 55105 Physical address: 22337 Value: 0
 Virtual address: 65321 Physical address: 20265 Value: 0
 Virtual address: 45278 Physical address: 10462 Value: 44
-page fault handling with LRU, indexToDelete = 23
-page fault handling with LRU
 Virtual address: 26256 Physical address: 24208 Value: 0
 Virtual address: 64198 Physical address: 15046 Value: 62
 Virtual address: 29441 Physical address: 769 Value: 0
 Virtual address: 1928 Physical address: 23432 Value: 0
-page fault handling with LRU, indexToDelete = 24
-page fault handling with LRU
 Virtual address: 39425 Physical address: 25089 Value: 0
 Virtual address: 32000 Physical address: 18688 Value: 0
-page fault handling with LRU, indexToDelete = 25
-page fault handling with LRU
 Virtual address: 28549 Physical address: 26501 Value: 0
-page fault handling with LRU, indexToDelete = 26
-page fault handling with LRU
 Virtual address: 46295 Physical address: 26839 Value: 53
-page fault handling with LRU, indexToDelete = 27
-page fault handling with LRU
 Virtual address: 22772 Physical address: 27892 Value: 0
 Virtual address: 58228 Physical address: 8052 Value: 0
 Virtual address: 63525 Physical address: 14373 Value: 0
 Virtual address: 32602 Physical address: 19290 Value: 31
 Virtual address: 46195 Physical address: 26739 Value: 28
-page fault handling with LRU, indexToDelete = 28
-page fault handling with LRU
 Virtual address: 55849 Physical address: 29225 Value: 0
 Virtual address: 46454 Physical address: 26998 Value: 45
-page fault handling with LRU, indexToDelete = 29
-page fault handling with LRU
 Virtual address: 7487 Physical address: 30015 Value: 79
-page fault handling with LRU, indexToDelete = 30
-page fault handling with LRU
 Virtual address: 33879 Physical address: 30807 Value: 21
-page fault handling with LRU, indexToDelete = 31
-page fault handling with LRU
 Virtual address: 42004 Physical address: 31764 Value: 0
 Virtual address: 8599 Physical address: 2455 Value: 101
-page fault handling with LRU, indexToDelete = 32
-page fault handling with LRU
 Virtual address: 18641 Physical address: 32977 Value: 0
-page fault handling with LRU, indexToDelete = 33
-page fault handling with LRU
 Virtual address: 49015 Physical address: 34679 Value: -35
 Virtual address: 26830 Physical address: 17614 Value: 26
 Virtual address: 34754 Physical address: 31682 Value: 33
-page fault handling with LRU, indexToDelete = 34
-page fault handling with LRU
 Virtual address: 14668 Physical address: 35148 Value: 0
 Virtual address: 38362 Physical address: 4570 Value: 37
 Virtual address: 38791 Physical address: 4999 Value: -31
-page fault handling with LRU, indexToDelete = 35
-page fault handling with LRU
 Virtual address: 4171 Physical address: 35915 Value: 18
 Virtual address: 45975 Physical address: 11159 Value: -27
 Virtual address: 14623 Physical address: 35103 Value: 71
@@ -140,56 +68,32 @@ Virtual address: 62393 Physical address: 21433 Value: 0
 Virtual address: 64658 Physical address: 19602 Value: 63
 Virtual address: 10963 Physical address: 14035 Value: -76
 Virtual address: 9058 Physical address: 2914 Value: 8
-page fault handling with LRU, indexToDelete = 36
-page fault handling with LRU
 Virtual address: 51031 Physical address: 37719 Value: -43
 Virtual address: 32425 Physical address: 19113 Value: 0
 Virtual address: 45483 Physical address: 10667 Value: 106
-page fault handling with LRU, indexToDelete = 37
-page fault handling with LRU
 Virtual address: 44611 Physical address: 38467 Value: -112
 Virtual address: 63664 Physical address: 14512 Value: 0
 Virtual address: 54920 Physical address: 22152 Value: 0
 Virtual address: 7663 Physical address: 30191 Value: 123
-page fault handling with LRU, indexToDelete = 38
-page fault handling with LRU
 Virtual address: 56480 Physical address: 39072 Value: 0
 Virtual address: 1489 Physical address: 22993 Value: 0
 Virtual address: 28438 Physical address: 26390 Value: 27
 Virtual address: 65449 Physical address: 20393 Value: 0
-page fault handling with LRU, indexToDelete = 39
-page fault handling with LRU
 Virtual address: 12441 Physical address: 40089 Value: 0
-page fault handling with LRU, indexToDelete = 40
-page fault handling with LRU
 Virtual address: 58530 Physical address: 41122 Value: 57
 Virtual address: 63570 Physical address: 14418 Value: 62
 Virtual address: 26251 Physical address: 24203 Value: -94
-page fault handling with LRU, indexToDelete = 41
-page fault handling with LRU
 Virtual address: 15972 Physical address: 42596 Value: 0
-page fault handling with LRU, indexToDelete = 42
-page fault handling with LRU
 Virtual address: 35826 Physical address: 44018 Value: 34
-page fault handling with LRU, indexToDelete = 43
-page fault handling with LRU
 Virtual address: 5491 Physical address: 44403 Value: 92
-page fault handling with LRU, indexToDelete = 44
-page fault handling with LRU
 Virtual address: 54253 Physical address: 46061 Value: 0
-page fault handling with LRU, indexToDelete = 45
-page fault handling with LRU
 Virtual address: 49655 Physical address: 46583 Value: 125
 Virtual address: 5868 Physical address: 44780 Value: 0
 Virtual address: 20163 Physical address: 6851 Value: -80
-page fault handling with LRU, indexToDelete = 46
-page fault handling with LRU
 Virtual address: 32952 Physical address: 47288 Value: 0
 Virtual address: 4657 Physical address: 36401 Value: 0
 Virtual address: 24142 Physical address: 5710 Value: 23
 Virtual address: 23319 Physical address: 28439 Value: -59
-page fault handling with LRU, indexToDelete = 47
-page fault handling with LRU
 Virtual address: 13607 Physical address: 48423 Value: 73
 Virtual address: 46304 Physical address: 26848 Value: 0
 Virtual address: 17677 Physical address: 9485 Value: 0
@@ -202,26 +106,18 @@ Virtual address: 52954 Physical address: 3802 Value: 51
 Virtual address: 39720 Physical address: 25384 Value: 0
 Virtual address: 18455 Physical address: 32791 Value: 5
 Virtual address: 30349 Physical address: 1677 Value: 0
-page fault handling with LRU, indexToDelete = 48
-page fault handling with LRU
 Virtual address: 63270 Physical address: 49958 Value: 61
 Virtual address: 27156 Physical address: 17940 Value: 0
-page fault handling with LRU, indexToDelete = 49
-page fault handling with LRU
 Virtual address: 20614 Physical address: 50310 Value: 20
 Virtual address: 19372 Physical address: 33708 Value: 0
 Virtual address: 48689 Physical address: 34353 Value: 0
 Virtual address: 49386 Physical address: 46314 Value: 48
 Virtual address: 50584 Physical address: 37272 Value: 0
-page fault handling with LRU, indexToDelete = 50
-page fault handling with LRU
 Virtual address: 51936 Physical address: 51936 Value: 0
 Virtual address: 34705 Physical address: 31633 Value: 0
 Virtual address: 13653 Physical address: 48469 Value: 0
 Virtual address: 50077 Physical address: 47005 Value: 0
 Virtual address: 54518 Physical address: 21750 Value: 53
-page fault handling with LRU, indexToDelete = 51
-page fault handling with LRU
 Virtual address: 41482 Physical address: 52746 Value: 40
 Virtual address: 4169 Physical address: 35913 Value: 0
 Virtual address: 19219 Physical address: 33555 Value: -60
@@ -233,18 +129,12 @@ Virtual address: 10447 Physical address: 13519 Value: 51
 Virtual address: 54169 Physical address: 45977 Value: 0
 Virtual address: 20634 Physical address: 50330 Value: 20
 Virtual address: 57555 Physical address: 7379 Value: 52
-page fault handling with LRU, indexToDelete = 52
-page fault handling with LRU
 Virtual address: 61210 Physical address: 54042 Value: 59
-page fault handling with LRU, indexToDelete = 53
-page fault handling with LRU
 Virtual address: 269 Physical address: 54541 Value: 0
 Virtual address: 33154 Physical address: 47490 Value: 32
 Virtual address: 64487 Physical address: 15335 Value: -7
 Virtual address: 61223 Physical address: 54055 Value: -55
 Virtual address: 47292 Physical address: 11452 Value: 0
-page fault handling with LRU, indexToDelete = 54
-page fault handling with LRU
 Virtual address: 21852 Physical address: 55644 Value: 0
 Virtual address: 5281 Physical address: 44193 Value: 0
 Virtual address: 45912 Physical address: 11096 Value: 0
@@ -263,11 +153,7 @@ Virtual address: 64127 Physical address: 14975 Value: -97
 Virtual address: 15028 Physical address: 35508 Value: 0
 Virtual address: 38669 Physical address: 4877 Value: 0
 Virtual address: 45637 Physical address: 10821 Value: 0
-page fault handling with LRU, indexToDelete = 55
-page fault handling with LRU
 Virtual address: 43151 Physical address: 56463 Value: 35
-page fault handling with LRU, indexToDelete = 56
-page fault handling with LRU
 Virtual address: 9465 Physical address: 57593 Value: 0
 Virtual address: 2498 Physical address: 8642 Value: 2
 Virtual address: 13978 Physical address: 48794 Value: 13
@@ -279,8 +165,6 @@ Virtual address: 39370 Physical address: 25034 Value: 38
 Virtual address: 55671 Physical address: 29047 Value: 93
 Virtual address: 64496 Physical address: 15344 Value: 0
 Virtual address: 7767 Physical address: 30295 Value: -107
-page fault handling with LRU, indexToDelete = 57
-page fault handling with LRU
 Virtual address: 6283 Physical address: 58507 Value: 34
 Virtual address: 55884 Physical address: 29260 Value: 0
 Virtual address: 61103 Physical address: 53935 Value: -85
@@ -295,14 +179,10 @@ Virtual address: 41421 Physical address: 52685 Value: 0
 Virtual address: 45502 Physical address: 10686 Value: 44
 Virtual address: 29328 Physical address: 656 Value: 0
 Virtual address: 8149 Physical address: 30677 Value: 0
-page fault handling with LRU, indexToDelete = 58
-page fault handling with LRU
 Virtual address: 25450 Physical address: 60266 Value: 24
 Virtual address: 58944 Physical address: 41536 Value: 0
 Virtual address: 50666 Physical address: 37354 Value: 49
 Virtual address: 23084 Physical address: 28204 Value: 0
-page fault handling with LRU, indexToDelete = 59
-page fault handling with LRU
 Virtual address: 36468 Physical address: 61044 Value: 0
 Virtual address: 33645 Physical address: 47981 Value: 0
 Virtual address: 25002 Physical address: 59818 Value: 24
@@ -316,8 +196,6 @@ Virtual address: 22173 Physical address: 55965 Value: 0
 Virtual address: 8535 Physical address: 2391 Value: 85
 Virtual address: 42261 Physical address: 32021 Value: 0
 Virtual address: 29687 Physical address: 1015 Value: -3
-page fault handling with LRU, indexToDelete = 60
-page fault handling with LRU
 Virtual address: 37799 Physical address: 62375 Value: -23
 Virtual address: 22566 Physical address: 27686 Value: 22
 Virtual address: 62520 Physical address: 49208 Value: 0
@@ -361,8 +239,6 @@ Virtual address: 64304 Physical address: 15152 Value: 0
 Virtual address: 30273 Physical address: 1601 Value: 0
 Virtual address: 38082 Physical address: 4290 Value: 37
 Virtual address: 22404 Physical address: 56196 Value: 0
-page fault handling with LRU, indexToDelete = 61
-page fault handling with LRU
 Virtual address: 3808 Physical address: 63200 Value: 0
 Virtual address: 16883 Physical address: 16883 Value: 124
 Virtual address: 23111 Physical address: 28231 Value: -111
@@ -473,8 +349,6 @@ Virtual address: 36943 Physical address: 61519 Value: 19
 Virtual address: 54066 Physical address: 45874 Value: 52
 Virtual address: 10054 Physical address: 58182 Value: 9
 Virtual address: 43051 Physical address: 56363 Value: 10
-page fault handling with LRU, indexToDelete = 62
-page fault handling with LRU
 Virtual address: 11525 Physical address: 63749 Value: 0
 Virtual address: 17684 Physical address: 9492 Value: 0
 Virtual address: 41681 Physical address: 52945 Value: 0
@@ -491,8 +365,6 @@ Virtual address: 21018 Physical address: 50714 Value: 20
 Virtual address: 2192 Physical address: 8336 Value: 0
 Virtual address: 18384 Physical address: 10192 Value: 0
 Virtual address: 13464 Physical address: 48280 Value: 0
-page fault handling with LRU, indexToDelete = 63
-page fault handling with LRU
 Virtual address: 31018 Physical address: 64810 Value: 30
 Virtual address: 62958 Physical address: 49646 Value: 61
 Virtual address: 30611 Physical address: 1939 Value: -28
@@ -626,1313 +498,505 @@ Virtual address: 8940 Physical address: 2796 Value: 0
 Virtual address: 9929 Physical address: 58057 Value: 0
 Virtual address: 45563 Physical address: 10747 Value: 126
 Virtual address: 12107 Physical address: 64331 Value: -46
-page fault handling with LRU, indexToDelete = 64
-page fault handling with LRU
 Virtual address: 139999 Physical address: 66271 Value: -73
-page fault handling with LRU, indexToDelete = 65
-page fault handling with LRU
 Virtual address: 640626 Physical address: 67186 Value: 49
-page fault handling with LRU, indexToDelete = 66
-page fault handling with LRU
 Virtual address: 910100 Physical address: 68372 Value: 0
-page fault handling with LRU, indexToDelete = 67
-page fault handling with LRU
 Virtual address: 998249 Physical address: 69481 Value: 0
-page fault handling with LRU, indexToDelete = 68
-page fault handling with LRU
 Virtual address: 850186 Physical address: 69898 Value: 62
-page fault handling with LRU, indexToDelete = 69
-page fault handling with LRU
 Virtual address: 655763 Physical address: 71059 Value: 100
 Virtual address: 47867 Physical address: 12027 Value: -66
-page fault handling with LRU, indexToDelete = 70
-page fault handling with LRU
 Virtual address: 328403 Physical address: 72403 Value: -76
-page fault handling with LRU, indexToDelete = 71
-page fault handling with LRU
 Virtual address: 216448 Physical address: 73088 Value: 0
-page fault handling with LRU, indexToDelete = 72
-page fault handling with LRU
 Virtual address: 477031 Physical address: 74599 Value: -39
-page fault handling with LRU, indexToDelete = 73
-page fault handling with LRU
 Virtual address: 449446 Physical address: 75686 Value: 54
-page fault handling with LRU, indexToDelete = 74
-page fault handling with LRU
 Virtual address: 73686 Physical address: 76758 Value: 7
-page fault handling with LRU, indexToDelete = 75
-page fault handling with LRU
 Virtual address: 504565 Physical address: 77557 Value: 0
-page fault handling with LRU, indexToDelete = 76
-page fault handling with LRU
 Virtual address: 350819 Physical address: 78435 Value: -104
-page fault handling with LRU, indexToDelete = 77
-page fault handling with LRU
 Virtual address: 542237 Physical address: 79389 Value: 0
-page fault handling with LRU, indexToDelete = 78
-page fault handling with LRU
 Virtual address: 819868 Physical address: 80540 Value: 0
-page fault handling with LRU, indexToDelete = 79
-page fault handling with LRU
 Virtual address: 1003779 Physical address: 81155 Value: 64
-page fault handling with LRU, indexToDelete = 80
-page fault handling with LRU
 Virtual address: 408783 Physical address: 82127 Value: 51
-page fault handling with LRU, indexToDelete = 81
-page fault handling with LRU
 Virtual address: 777530 Physical address: 83258 Value: 55
-page fault handling with LRU, indexToDelete = 82
-page fault handling with LRU
 Virtual address: 107507 Physical address: 84979 Value: -4
-page fault handling with LRU, indexToDelete = 83
-page fault handling with LRU
 Virtual address: 885079 Physical address: 85335 Value: 85
-page fault handling with LRU, indexToDelete = 84
-page fault handling with LRU
 Virtual address: 82606 Physical address: 86702 Value: 16
-page fault handling with LRU, indexToDelete = 85
-page fault handling with LRU
 Virtual address: 702149 Physical address: 87749 Value: 0
 Virtual address: 738857 Physical address: 74281 Value: 0
-page fault handling with LRU, indexToDelete = 86
-page fault handling with LRU
 Virtual address: 651723 Physical address: 88523 Value: 114
-page fault handling with LRU, indexToDelete = 87
-page fault handling with LRU
 Virtual address: 189583 Physical address: 89231 Value: 35
-page fault handling with LRU, indexToDelete = 88
-page fault handling with LRU
 Virtual address: 327739 Physical address: 90171 Value: 14
-page fault handling with LRU, indexToDelete = 89
-page fault handling with LRU
 Virtual address: 111762 Physical address: 91282 Value: 45
-page fault handling with LRU, indexToDelete = 90
-page fault handling with LRU
 Virtual address: 212710 Physical address: 92902 Value: 15
-page fault handling with LRU, indexToDelete = 91
-page fault handling with LRU
 Virtual address: 856173 Physical address: 93293 Value: 0
-page fault handling with LRU, indexToDelete = 92
-page fault handling with LRU
 Virtual address: 275001 Physical address: 94777 Value: 0
-page fault handling with LRU, indexToDelete = 93
-page fault handling with LRU
 Virtual address: 816596 Physical address: 95700 Value: 0
-page fault handling with LRU, indexToDelete = 94
-page fault handling with LRU
 Virtual address: 880640 Physical address: 96256 Value: 0
-page fault handling with LRU, indexToDelete = 95
-page fault handling with LRU
 Virtual address: 126755 Physical address: 98083 Value: -56
-page fault handling with LRU, indexToDelete = 96
-page fault handling with LRU
 Virtual address: 832357 Physical address: 99173 Value: 0
-page fault handling with LRU, indexToDelete = 97
-page fault handling with LRU
 Virtual address: 528490 Physical address: 99434 Value: 4
-page fault handling with LRU, indexToDelete = 98
-page fault handling with LRU
 Virtual address: 280439 Physical address: 101239 Value: -35
-page fault handling with LRU, indexToDelete = 99
-page fault handling with LRU
 Virtual address: 638526 Physical address: 101950 Value: 47
-page fault handling with LRU, indexToDelete = 100
-page fault handling with LRU
 Virtual address: 154193 Physical address: 102993 Value: 0
-page fault handling with LRU, indexToDelete = 101
-page fault handling with LRU
 Virtual address: 1018487 Physical address: 104055 Value: -99
-page fault handling with LRU, indexToDelete = 102
-page fault handling with LRU
 Virtual address: 897553 Physical address: 104977 Value: 0
-page fault handling with LRU, indexToDelete = 103
-page fault handling with LRU
 Virtual address: 107630 Physical address: 105582 Value: 41
-page fault handling with LRU, indexToDelete = 104
-page fault handling with LRU
 Virtual address: 609009 Physical address: 107249 Value: 0
-page fault handling with LRU, indexToDelete = 105
-page fault handling with LRU
 Virtual address: 200431 Physical address: 108271 Value: -69
-page fault handling with LRU, indexToDelete = 106
-page fault handling with LRU
 Virtual address: 889870 Physical address: 108558 Value: 37
-page fault handling with LRU, indexToDelete = 107
-page fault handling with LRU
 Virtual address: 247353 Physical address: 110137 Value: 0
-page fault handling with LRU, indexToDelete = 108
-page fault handling with LRU
 Virtual address: 1003324 Physical address: 111420 Value: 0
-page fault handling with LRU, indexToDelete = 109
-page fault handling with LRU
 Virtual address: 906828 Physical address: 112204 Value: 0
-page fault handling with LRU, indexToDelete = 110
-page fault handling with LRU
 Virtual address: 273141 Physical address: 113397 Value: 0
-page fault handling with LRU, indexToDelete = 111
-page fault handling with LRU
 Virtual address: 390912 Physical address: 114432 Value: 0
-page fault handling with LRU, indexToDelete = 112
-page fault handling with LRU
 Virtual address: 721881 Physical address: 115673 Value: 0
-page fault handling with LRU, indexToDelete = 113
-page fault handling with LRU
 Virtual address: 589549 Physical address: 116461 Value: 0
-page fault handling with LRU, indexToDelete = 114
-page fault handling with LRU
 Virtual address: 591406 Physical address: 117294 Value: 1
-page fault handling with LRU, indexToDelete = 115
-page fault handling with LRU
 Virtual address: 696959 Physical address: 118399 Value: -97
-page fault handling with LRU, indexToDelete = 116
-page fault handling with LRU
 Virtual address: 229722 Physical address: 119130 Value: 32
-page fault handling with LRU, indexToDelete = 117
-page fault handling with LRU
 Virtual address: 886122 Physical address: 120170 Value: 33
-page fault handling with LRU, indexToDelete = 118
-page fault handling with LRU
 Virtual address: 506221 Physical address: 121197 Value: 0
-page fault handling with LRU, indexToDelete = 119
-page fault handling with LRU
 Virtual address: 201979 Physical address: 122107 Value: 62
-page fault handling with LRU, indexToDelete = 120
-page fault handling with LRU
 Virtual address: 132377 Physical address: 123161 Value: 0
-page fault handling with LRU, indexToDelete = 121
-page fault handling with LRU
 Virtual address: 806499 Physical address: 124515 Value: -104
-page fault handling with LRU, indexToDelete = 122
-page fault handling with LRU
 Virtual address: 312119 Physical address: 125751 Value: -51
-page fault handling with LRU, indexToDelete = 123
-page fault handling with LRU
 Virtual address: 841657 Physical address: 126905 Value: 0
-page fault handling with LRU, indexToDelete = 124
-page fault handling with LRU
 Virtual address: 868799 Physical address: 127423 Value: 111
-page fault handling with LRU, indexToDelete = 125
-page fault handling with LRU
 Virtual address: 229122 Physical address: 128770 Value: 31
-page fault handling with LRU, indexToDelete = 126
-page fault handling with LRU
 Virtual address: 1011194 Physical address: 129530 Value: 27
 Virtual address: 35558 Physical address: 43750 Value: 34
-page fault handling with LRU, indexToDelete = 127
-page fault handling with LRU
 Virtual address: 799917 Physical address: 130221 Value: 0
-page fault handling with LRU, indexToDelete = 128
-page fault handling with LRU
 Virtual address: 765407 Physical address: 131551 Value: 119
-page fault handling with LRU, indexToDelete = 129
-page fault handling with LRU
 Virtual address: 563834 Physical address: 132730 Value: 38
-page fault handling with LRU, indexToDelete = 130
-page fault handling with LRU
 Virtual address: 435424 Physical address: 133344 Value: 0
-page fault handling with LRU, indexToDelete = 131
-page fault handling with LRU
 Virtual address: 945280 Physical address: 134272 Value: 0
 Virtual address: 799763 Physical address: 130067 Value: 4
 Virtual address: 52248 Physical address: 3096 Value: 0
-page fault handling with LRU, indexToDelete = 132
-page fault handling with LRU
 Virtual address: 298268 Physical address: 135452 Value: 0
-page fault handling with LRU, indexToDelete = 133
-page fault handling with LRU
 Virtual address: 863593 Physical address: 136553 Value: 0
-page fault handling with LRU, indexToDelete = 134
-page fault handling with LRU
 Virtual address: 852091 Physical address: 137339 Value: 30
 Virtual address: 229971 Physical address: 119379 Value: -108
-page fault handling with LRU, indexToDelete = 135
-page fault handling with LRU
 Virtual address: 309916 Physical address: 138908 Value: 0
-page fault handling with LRU, indexToDelete = 136
-page fault handling with LRU
 Virtual address: 895524 Physical address: 139812 Value: 0
-page fault handling with LRU, indexToDelete = 137
-page fault handling with LRU
 Virtual address: 266295 Physical address: 140343 Value: 13
-page fault handling with LRU, indexToDelete = 138
-page fault handling with LRU
 Virtual address: 850484 Physical address: 141876 Value: 0
 Virtual address: 44817 Physical address: 38673 Value: 0
-page fault handling with LRU, indexToDelete = 139
-page fault handling with LRU
 Virtual address: 318297 Physical address: 143193 Value: 0
 Virtual address: 33174 Physical address: 80278 Value: 32
-page fault handling with LRU, indexToDelete = 140
-page fault handling with LRU
 Virtual address: 903321 Physical address: 143513 Value: 0
 Virtual address: 33591 Physical address: 80695 Value: -51
 Virtual address: 159040 Physical address: 134464 Value: 0
-page fault handling with LRU, indexToDelete = 141
-page fault handling with LRU
 Virtual address: 855842 Physical address: 145186 Value: 3
 Virtual address: 587966 Physical address: 141502 Value: 62
-page fault handling with LRU, indexToDelete = 142
-page fault handling with LRU
 Virtual address: 238333 Physical address: 146173 Value: 0
-page fault handling with LRU, indexToDelete = 143
-page fault handling with LRU
 Virtual address: 760579 Physical address: 147203 Value: -64
-page fault handling with LRU, indexToDelete = 144
-page fault handling with LRU
 Virtual address: 734836 Physical address: 148084 Value: 0
-page fault handling with LRU, indexToDelete = 145
-page fault handling with LRU
 Virtual address: 301359 Physical address: 148783 Value: 75
-page fault handling with LRU, indexToDelete = 146
-page fault handling with LRU
 Virtual address: 678315 Physical address: 149931 Value: 106
-page fault handling with LRU, indexToDelete = 147
-page fault handling with LRU
 Virtual address: 209797 Physical address: 151429 Value: 0
-page fault handling with LRU, indexToDelete = 148
-page fault handling with LRU
 Virtual address: 486191 Physical address: 152367 Value: -53
-page fault handling with LRU, indexToDelete = 149
-page fault handling with LRU
 Virtual address: 823229 Physical address: 153533 Value: 0
 Virtual address: 1009866 Physical address: 151754 Value: 26
-page fault handling with LRU, indexToDelete = 150
-page fault handling with LRU
 Virtual address: 796938 Physical address: 153866 Value: 10
 Virtual address: 17495 Physical address: 100439 Value: 21
 Virtual address: 14822 Physical address: 35302 Value: 14
 Virtual address: 196689 Physical address: 114769 Value: 0
-page fault handling with LRU, indexToDelete = 151
-page fault handling with LRU
 Virtual address: 597143 Physical address: 154775 Value: 37
 Virtual address: 14097 Physical address: 130833 Value: 0
 Virtual address: 36582 Physical address: 153318 Value: 35
-page fault handling with LRU, indexToDelete = 152
-page fault handling with LRU
 Virtual address: 296540 Physical address: 156252 Value: 0
-page fault handling with LRU, indexToDelete = 153
-page fault handling with LRU
 Virtual address: 875808 Physical address: 156960 Value: 0
 Virtual address: 31245 Physical address: 65037 Value: 0
-page fault handling with LRU, indexToDelete = 154
-page fault handling with LRU
 Virtual address: 693547 Physical address: 157995 Value: 74
-page fault handling with LRU, indexToDelete = 155
-page fault handling with LRU
 Virtual address: 617290 Physical address: 159562 Value: 26
-page fault handling with LRU, indexToDelete = 156
-page fault handling with LRU
 Virtual address: 754626 Physical address: 160706 Value: 32
-page fault handling with LRU, indexToDelete = 157
-page fault handling with LRU
 Virtual address: 356784 Physical address: 161200 Value: 0
-page fault handling with LRU, indexToDelete = 158
-page fault handling with LRU
 Virtual address: 816721 Physical address: 162385 Value: 0
-page fault handling with LRU, indexToDelete = 159
-page fault handling with LRU
 Virtual address: 596839 Physical address: 163687 Value: -39
-page fault handling with LRU, indexToDelete = 160
-page fault handling with LRU
 Virtual address: 566027 Physical address: 164619 Value: -62
-page fault handling with LRU, indexToDelete = 161
-page fault handling with LRU
 Virtual address: 369714 Physical address: 164914 Value: 41
-page fault handling with LRU, indexToDelete = 162
-page fault handling with LRU
 Virtual address: 669114 Physical address: 166330 Value: 13
-page fault handling with LRU, indexToDelete = 163
-page fault handling with LRU
 Virtual address: 274260 Physical address: 167764 Value: 0
-page fault handling with LRU, indexToDelete = 164
-page fault handling with LRU
 Virtual address: 244839 Physical address: 168039 Value: 25
-page fault handling with LRU, indexToDelete = 165
-page fault handling with LRU
 Virtual address: 268034 Physical address: 169730 Value: 5
-page fault handling with LRU, indexToDelete = 166
-page fault handling with LRU
 Virtual address: 946123 Physical address: 170955 Value: -14
-page fault handling with LRU, indexToDelete = 167
-page fault handling with LRU
 Virtual address: 933719 Physical address: 171863 Value: -43
-page fault handling with LRU, indexToDelete = 168
-page fault handling with LRU
 Virtual address: 387048 Physical address: 173032 Value: 0
-page fault handling with LRU, indexToDelete = 169
-page fault handling with LRU
 Virtual address: 865217 Physical address: 174017 Value: 0
-page fault handling with LRU, indexToDelete = 170
-page fault handling with LRU
 Virtual address: 510621 Physical address: 174749 Value: 0
-page fault handling with LRU, indexToDelete = 171
-page fault handling with LRU
 Virtual address: 988105 Physical address: 176073 Value: 0
-page fault handling with LRU, indexToDelete = 172
-page fault handling with LRU
 Virtual address: 761530 Physical address: 176826 Value: 39
-page fault handling with LRU, indexToDelete = 173
-page fault handling with LRU
 Virtual address: 943805 Physical address: 177853 Value: 0
-page fault handling with LRU, indexToDelete = 174
-page fault handling with LRU
 Virtual address: 860982 Physical address: 178998 Value: 8
-page fault handling with LRU, indexToDelete = 175
-page fault handling with LRU
 Virtual address: 1016036 Physical address: 179428 Value: 0
-page fault handling with LRU, indexToDelete = 176
-page fault handling with LRU
 Virtual address: 495048 Physical address: 180680 Value: 0
-page fault handling with LRU, indexToDelete = 177
-page fault handling with LRU
 Virtual address: 391926 Physical address: 182006 Value: 62
-page fault handling with LRU, indexToDelete = 178
-page fault handling with LRU
 Virtual address: 207421 Physical address: 182845 Value: 0
-page fault handling with LRU, indexToDelete = 179
-page fault handling with LRU
 Virtual address: 778411 Physical address: 183467 Value: 42
-page fault handling with LRU, indexToDelete = 180
-page fault handling with LRU
 Virtual address: 275860 Physical address: 184724 Value: 0
-page fault handling with LRU, indexToDelete = 181
-page fault handling with LRU
 Virtual address: 666017 Physical address: 185761 Value: 0
 Virtual address: 233165 Physical address: 180941 Value: 0
-page fault handling with LRU, indexToDelete = 182
-page fault handling with LRU
 Virtual address: 624537 Physical address: 187289 Value: 0
-page fault handling with LRU, indexToDelete = 183
-page fault handling with LRU
 Virtual address: 594678 Physical address: 188150 Value: 4
 Virtual address: 223659 Physical address: 151979 Value: 106
-page fault handling with LRU, indexToDelete = 184
-page fault handling with LRU
 Virtual address: 250421 Physical address: 188981 Value: 0
 Virtual address: 774150 Physical address: 188422 Value: 52
-page fault handling with LRU, indexToDelete = 185
-page fault handling with LRU
 Virtual address: 135481 Physical address: 189753 Value: 0
-page fault handling with LRU, indexToDelete = 186
-page fault handling with LRU
 Virtual address: 983975 Physical address: 191399 Value: -23
-page fault handling with LRU, indexToDelete = 187
-page fault handling with LRU
 Virtual address: 263472 Physical address: 191792 Value: 0
 Virtual address: 123255 Physical address: 67959 Value: 93
-page fault handling with LRU, indexToDelete = 188
-page fault handling with LRU
 Virtual address: 629916 Physical address: 192668 Value: 0
-page fault handling with LRU, indexToDelete = 189
-page fault handling with LRU
 Virtual address: 811868 Physical address: 194396 Value: 0
-page fault handling with LRU, indexToDelete = 190
-page fault handling with LRU
 Virtual address: 1026565 Physical address: 195077 Value: 0
-page fault handling with LRU, indexToDelete = 191
-page fault handling with LRU
 Virtual address: 110009 Physical address: 196025 Value: 0
 Virtual address: 23869 Physical address: 5437 Value: 0
-page fault handling with LRU, indexToDelete = 192
-page fault handling with LRU
 Virtual address: 414248 Physical address: 197160 Value: 0
-page fault handling with LRU, indexToDelete = 193
-page fault handling with LRU
 Virtual address: 520443 Physical address: 197883 Value: 62
-page fault handling with LRU, indexToDelete = 194
-page fault handling with LRU
 Virtual address: 344226 Physical address: 198818 Value: 16
-page fault handling with LRU, indexToDelete = 195
-page fault handling with LRU
 Virtual address: 319575 Physical address: 199767 Value: 21
-page fault handling with LRU, indexToDelete = 196
-page fault handling with LRU
 Virtual address: 616371 Physical address: 201651 Value: -20
-page fault handling with LRU, indexToDelete = 197
-page fault handling with LRU
 Virtual address: 513646 Physical address: 202350 Value: 53
-page fault handling with LRU, indexToDelete = 198
-page fault handling with LRU
 Virtual address: 651528 Physical address: 203016 Value: 0
-page fault handling with LRU, indexToDelete = 199
-page fault handling with LRU
 Virtual address: 627183 Physical address: 204271 Value: 123
 Virtual address: 616044 Physical address: 201324 Value: 0
 Virtual address: 627022 Physical address: 204110 Value: 36
-page fault handling with LRU, indexToDelete = 200
-page fault handling with LRU
 Virtual address: 501546 Physical address: 205610 Value: 41
 Virtual address: 938566 Physical address: 197190 Value: 20
-page fault handling with LRU, indexToDelete = 201
-page fault handling with LRU
 Virtual address: 798934 Physical address: 206038 Value: 12
 Virtual address: 50453 Physical address: 37141 Value: 0
-page fault handling with LRU, indexToDelete = 202
-page fault handling with LRU
 Virtual address: 312215 Physical address: 207767 Value: -27
-page fault handling with LRU, indexToDelete = 203
-page fault handling with LRU
 Virtual address: 182010 Physical address: 208634 Value: 49
 Virtual address: 238952 Physical address: 205160 Value: 0
-page fault handling with LRU, indexToDelete = 204
-page fault handling with LRU
 Virtual address: 702880 Physical address: 209312 Value: 0
 Virtual address: 706420 Physical address: 208756 Value: 0
 Virtual address: 413730 Physical address: 196642 Value: 20
-page fault handling with LRU, indexToDelete = 205
-page fault handling with LRU
 Virtual address: 533219 Physical address: 210659 Value: -72
-page fault handling with LRU, indexToDelete = 206
-page fault handling with LRU
 Virtual address: 686957 Physical address: 211821 Value: 0
-page fault handling with LRU, indexToDelete = 207
-page fault handling with LRU
 Virtual address: 319437 Physical address: 212941 Value: 0
-page fault handling with LRU, indexToDelete = 208
-page fault handling with LRU
 Virtual address: 708018 Physical address: 213426 Value: 51
-page fault handling with LRU, indexToDelete = 209
-page fault handling with LRU
 Virtual address: 475413 Physical address: 214293 Value: 0
-page fault handling with LRU, indexToDelete = 210
-page fault handling with LRU
 Virtual address: 265137 Physical address: 215985 Value: 0
-page fault handling with LRU, indexToDelete = 211
-page fault handling with LRU
 Virtual address: 522441 Physical address: 216265 Value: 0
-page fault handling with LRU, indexToDelete = 212
-page fault handling with LRU
 Virtual address: 349817 Physical address: 217721 Value: 0
-page fault handling with LRU, indexToDelete = 213
-page fault handling with LRU
 Virtual address: 735128 Physical address: 219032 Value: 0
-page fault handling with LRU, indexToDelete = 214
-page fault handling with LRU
 Virtual address: 1016333 Physical address: 219661 Value: 0
-page fault handling with LRU, indexToDelete = 215
-page fault handling with LRU
 Virtual address: 96049 Physical address: 220977 Value: 0
-page fault handling with LRU, indexToDelete = 216
-page fault handling with LRU
 Virtual address: 730634 Physical address: 221706 Value: 9
 Virtual address: 788520 Physical address: 215080 Value: 0
-page fault handling with LRU, indexToDelete = 217
-page fault handling with LRU
 Virtual address: 509063 Physical address: 222343 Value: 33
-page fault handling with LRU, indexToDelete = 218
-page fault handling with LRU
 Virtual address: 942376 Physical address: 223528 Value: 0
-page fault handling with LRU, indexToDelete = 219
-page fault handling with LRU
 Virtual address: 803210 Physical address: 224650 Value: 16
-page fault handling with LRU, indexToDelete = 220
-page fault handling with LRU
 Virtual address: 930254 Physical address: 225742 Value: 12
-page fault handling with LRU, indexToDelete = 221
-page fault handling with LRU
 Virtual address: 841108 Physical address: 226708 Value: 0
-page fault handling with LRU, indexToDelete = 222
-page fault handling with LRU
 Virtual address: 628372 Physical address: 227988 Value: 0
 Virtual address: 24080 Physical address: 5648 Value: 0
 Virtual address: 1033529 Physical address: 222521 Value: 0
-page fault handling with LRU, indexToDelete = 223
-page fault handling with LRU
 Virtual address: 1002225 Physical address: 229105 Value: 0
-page fault handling with LRU, indexToDelete = 224
-page fault handling with LRU
 Virtual address: 713423 Physical address: 230095 Value: -77
-page fault handling with LRU, indexToDelete = 225
-page fault handling with LRU
 Virtual address: 513067 Physical address: 230443 Value: 10
 Virtual address: 5176 Physical address: 169016 Value: 0
-page fault handling with LRU, indexToDelete = 226
-page fault handling with LRU
 Virtual address: 1047587 Physical address: 231459 Value: 8
-page fault handling with LRU, indexToDelete = 227
-page fault handling with LRU
 Virtual address: 296523 Physical address: 233035 Value: -110
 Virtual address: 513300 Physical address: 230676 Value: 0
-page fault handling with LRU, indexToDelete = 228
-page fault handling with LRU
 Virtual address: 922183 Physical address: 234055 Value: -111
 Virtual address: 245024 Physical address: 168224 Value: 0
-page fault handling with LRU, indexToDelete = 229
-page fault handling with LRU
 Virtual address: 880369 Physical address: 235249 Value: 0
-page fault handling with LRU, indexToDelete = 230
-page fault handling with LRU
 Virtual address: 905106 Physical address: 236434 Value: 51
 Virtual address: 4606 Physical address: 140798 Value: 4
-page fault handling with LRU, indexToDelete = 231
-page fault handling with LRU
 Virtual address: 307636 Physical address: 236980 Value: 0
 Virtual address: 668251 Physical address: 225883 Value: -106
-page fault handling with LRU, indexToDelete = 232
-page fault handling with LRU
 Virtual address: 595610 Physical address: 238234 Value: 5
-page fault handling with LRU, indexToDelete = 233
-page fault handling with LRU
 Virtual address: 900511 Physical address: 239007 Value: 103
-page fault handling with LRU, indexToDelete = 234
-page fault handling with LRU
 Virtual address: 942120 Physical address: 239656 Value: 0
-page fault handling with LRU, indexToDelete = 235
-page fault handling with LRU
 Virtual address: 924898 Physical address: 240866 Value: 7
-page fault handling with LRU, indexToDelete = 236
-page fault handling with LRU
 Virtual address: 1032460 Physical address: 241932 Value: 0
-page fault handling with LRU, indexToDelete = 237
-page fault handling with LRU
 Virtual address: 501266 Physical address: 243218 Value: 41
 Virtual address: 126859 Physical address: 98187 Value: -30
-page fault handling with LRU, indexToDelete = 238
-page fault handling with LRU
 Virtual address: 448508 Physical address: 244732 Value: 0
-page fault handling with LRU, indexToDelete = 239
-page fault handling with LRU
 Virtual address: 316296 Physical address: 245640 Value: 0
-page fault handling with LRU, indexToDelete = 240
-page fault handling with LRU
 Virtual address: 876674 Physical address: 245890 Value: 24
-page fault handling with LRU, indexToDelete = 241
-page fault handling with LRU
 Virtual address: 517097 Physical address: 247785 Value: 0
-page fault handling with LRU, indexToDelete = 242
-page fault handling with LRU
 Virtual address: 1036874 Physical address: 248394 Value: 52
-page fault handling with LRU, indexToDelete = 243
-page fault handling with LRU
 Virtual address: 472382 Physical address: 249150 Value: 13
-page fault handling with LRU, indexToDelete = 244
-page fault handling with LRU
 Virtual address: 446442 Physical address: 250858 Value: 51
-page fault handling with LRU, indexToDelete = 245
-page fault handling with LRU
 Virtual address: 800162 Physical address: 251298 Value: 13
-page fault handling with LRU, indexToDelete = 246
-page fault handling with LRU
 Virtual address: 605237 Physical address: 251957 Value: 0
 Virtual address: 38051 Physical address: 4259 Value: 40
 Virtual address: 110594 Physical address: 104450 Value: 44
-page fault handling with LRU, indexToDelete = 247
-page fault handling with LRU
 Virtual address: 860489 Physical address: 253257 Value: 0
-page fault handling with LRU, indexToDelete = 248
-page fault handling with LRU
 Virtual address: 361309 Physical address: 254813 Value: 0
-page fault handling with LRU, indexToDelete = 249
-page fault handling with LRU
 Virtual address: 371103 Physical address: 255391 Value: 103
-page fault handling with LRU, indexToDelete = 250
-page fault handling with LRU
 Virtual address: 558691 Physical address: 256611 Value: -104
-page fault handling with LRU, indexToDelete = 251
-page fault handling with LRU
 Virtual address: 580943 Physical address: 257359 Value: 83
 Virtual address: 62814 Physical address: 49502 Value: 61
-page fault handling with LRU, indexToDelete = 252
-page fault handling with LRU
 Virtual address: 266004 Physical address: 258836 Value: 0
-page fault handling with LRU, indexToDelete = 253
-page fault handling with LRU
 Virtual address: 869762 Physical address: 259458 Value: 17
 Virtual address: 69245 Physical address: 145021 Value: 0
-page fault handling with LRU, indexToDelete = 254
-page fault handling with LRU
 Virtual address: 792414 Physical address: 260958 Value: 5
-page fault handling with LRU, indexToDelete = 255
-page fault handling with LRU
 Virtual address: 719060 Physical address: 261332 Value: 0
 Virtual address: 189662 Physical address: 89310 Value: 57
-page fault handling with LRU, indexToDelete = 15
-page fault handling with LRU
 Virtual address: 555313 Physical address: 15665 Value: 0
-page fault handling with LRU, indexToDelete = 60
-page fault handling with LRU
 Virtual address: 67862 Physical address: 61718 Value: 2
 Virtual address: 371259 Physical address: 255547 Value: -114
-page fault handling with LRU, indexToDelete = 25
-page fault handling with LRU
 Virtual address: 781917 Physical address: 26205 Value: 0
-page fault handling with LRU, indexToDelete = 0
-page fault handling with LRU
 Virtual address: 177145 Physical address: 1017 Value: 0
-page fault handling with LRU, indexToDelete = 1
-page fault handling with LRU
 Virtual address: 285615 Physical address: 1967 Value: -21
 Virtual address: 48418 Physical address: 34082 Value: 47
-page fault handling with LRU, indexToDelete = 2
-page fault handling with LRU
 Virtual address: 457767 Physical address: 2087 Value: 9
 Virtual address: 1818 Physical address: 192282 Value: 1
-page fault handling with LRU, indexToDelete = 6
-page fault handling with LRU
 Virtual address: 1047086 Physical address: 6702 Value: 62
-page fault handling with LRU, indexToDelete = 7
-page fault handling with LRU
 Virtual address: 436569 Physical address: 7513 Value: 0
-page fault handling with LRU, indexToDelete = 8
-page fault handling with LRU
 Virtual address: 595877 Physical address: 9125 Value: 0
-page fault handling with LRU, indexToDelete = 10
-page fault handling with LRU
 Virtual address: 998284 Physical address: 11148 Value: 0
-page fault handling with LRU, indexToDelete = 12
-page fault handling with LRU
 Virtual address: 403239 Physical address: 13095 Value: -55
 Virtual address: 457865 Physical address: 2185 Value: 0
-page fault handling with LRU, indexToDelete = 13
-page fault handling with LRU
 Virtual address: 538015 Physical address: 13727 Value: 103
-page fault handling with LRU, indexToDelete = 14
-page fault handling with LRU
 Virtual address: 478227 Physical address: 14355 Value: 4
-page fault handling with LRU, indexToDelete = 16
-page fault handling with LRU
 Virtual address: 838097 Physical address: 16849 Value: 0
-page fault handling with LRU, indexToDelete = 17
-page fault handling with LRU
 Virtual address: 434657 Physical address: 17889 Value: 0
-page fault handling with LRU, indexToDelete = 18
-page fault handling with LRU
 Virtual address: 844394 Physical address: 19050 Value: 56
 Virtual address: 982482 Physical address: 2514 Value: 63
-page fault handling with LRU, indexToDelete = 19
-page fault handling with LRU
 Virtual address: 288942 Physical address: 19630 Value: 26
-page fault handling with LRU, indexToDelete = 20
-page fault handling with LRU
 Virtual address: 698012 Physical address: 21148 Value: 0
-page fault handling with LRU, indexToDelete = 21
-page fault handling with LRU
 Virtual address: 681649 Physical address: 22193 Value: 0
 Virtual address: 90758 Physical address: 246406 Value: 24
-page fault handling with LRU, indexToDelete = 23
-page fault handling with LRU
 Virtual address: 733523 Physical address: 23891 Value: 84
-page fault handling with LRU, indexToDelete = 24
-page fault handling with LRU
 Virtual address: 1013062 Physical address: 24902 Value: 29
-page fault handling with LRU, indexToDelete = 26
-page fault handling with LRU
 Virtual address: 711190 Physical address: 27158 Value: 54
-page fault handling with LRU, indexToDelete = 27
-page fault handling with LRU
 Virtual address: 355340 Physical address: 27660 Value: 0
-page fault handling with LRU, indexToDelete = 28
-page fault handling with LRU
 Virtual address: 651944 Physical address: 29352 Value: 0
-page fault handling with LRU, indexToDelete = 29
-page fault handling with LRU
 Virtual address: 878077 Physical address: 30205 Value: 0
-page fault handling with LRU, indexToDelete = 30
-page fault handling with LRU
 Virtual address: 438093 Physical address: 31565 Value: 0
-page fault handling with LRU, indexToDelete = 31
-page fault handling with LRU
 Virtual address: 662584 Physical address: 31800 Value: 0
-page fault handling with LRU, indexToDelete = 32
-page fault handling with LRU
 Virtual address: 490672 Physical address: 32944 Value: 0
-page fault handling with LRU, indexToDelete = 38
-page fault handling with LRU
 Virtual address: 672380 Physical address: 39548 Value: 0
-page fault handling with LRU, indexToDelete = 39
-page fault handling with LRU
 Virtual address: 619958 Physical address: 40374 Value: 29
-page fault handling with LRU, indexToDelete = 40
-page fault handling with LRU
 Virtual address: 439463 Physical address: 41127 Value: 41
 Virtual address: 238456 Physical address: 146296 Value: 0
-page fault handling with LRU, indexToDelete = 41
-page fault handling with LRU
 Virtual address: 953704 Physical address: 42344 Value: 0
-page fault handling with LRU, indexToDelete = 44
-page fault handling with LRU
 Virtual address: 835075 Physical address: 45571 Value: -128
 Virtual address: 70639 Physical address: 188399 Value: -5
 Virtual address: 117479 Physical address: 144103 Value: -71
-page fault handling with LRU, indexToDelete = 45
-page fault handling with LRU
 Virtual address: 197686 Physical address: 46134 Value: 1
-page fault handling with LRU, indexToDelete = 49
-page fault handling with LRU
 Virtual address: 748992 Physical address: 50624 Value: 0
-page fault handling with LRU, indexToDelete = 50
-page fault handling with LRU
 Virtual address: 402232 Physical address: 52024 Value: 0
-page fault handling with LRU, indexToDelete = 51
-page fault handling with LRU
 Virtual address: 459076 Physical address: 52548 Value: 0
-page fault handling with LRU, indexToDelete = 52
-page fault handling with LRU
 Virtual address: 1017324 Physical address: 53740 Value: 0
-page fault handling with LRU, indexToDelete = 53
-page fault handling with LRU
 Virtual address: 484372 Physical address: 54292 Value: 0
-page fault handling with LRU, indexToDelete = 54
-page fault handling with LRU
 Virtual address: 371067 Physical address: 55675 Value: 94
-page fault handling with LRU, indexToDelete = 55
-page fault handling with LRU
 Virtual address: 1018290 Physical address: 56754 Value: 34
-page fault handling with LRU, indexToDelete = 56
-page fault handling with LRU
 Virtual address: 386899 Physical address: 58195 Value: -44
-page fault handling with LRU, indexToDelete = 57
-page fault handling with LRU
 Virtual address: 820950 Physical address: 59094 Value: 33
-page fault handling with LRU, indexToDelete = 58
-page fault handling with LRU
 Virtual address: 315433 Physical address: 59433 Value: 0
-page fault handling with LRU, indexToDelete = 61
-page fault handling with LRU
 Virtual address: 628115 Physical address: 62867 Value: 100
-page fault handling with LRU, indexToDelete = 62
-page fault handling with LRU
 Virtual address: 725371 Physical address: 63867 Value: 94
-page fault handling with LRU, indexToDelete = 64
-page fault handling with LRU
 Virtual address: 1032950 Physical address: 66294 Value: 48
-page fault handling with LRU, indexToDelete = 65
-page fault handling with LRU
 Virtual address: 567498 Physical address: 66762 Value: 42
-page fault handling with LRU, indexToDelete = 67
-page fault handling with LRU
 Virtual address: 21039 Physical address: 69167 Value: -117
-page fault handling with LRU, indexToDelete = 68
-page fault handling with LRU
 Virtual address: 728734 Physical address: 70302 Value: 7
 Virtual address: 13486 Physical address: 251054 Value: 13
-page fault handling with LRU, indexToDelete = 69
-page fault handling with LRU
 Virtual address: 280813 Physical address: 70893 Value: 0
-page fault handling with LRU, indexToDelete = 11
-page fault handling with LRU
 Virtual address: 457977 Physical address: 11513 Value: 0
-page fault handling with LRU, indexToDelete = 70
-page fault handling with LRU
 Virtual address: 431327 Physical address: 71903 Value: 55
 Virtual address: 185698 Physical address: 244066 Value: 53
-page fault handling with LRU, indexToDelete = 71
-page fault handling with LRU
 Virtual address: 811767 Physical address: 73463 Value: -67
-page fault handling with LRU, indexToDelete = 72
-page fault handling with LRU
 Virtual address: 639822 Physical address: 74574 Value: 48
-page fault handling with LRU, indexToDelete = 73
-page fault handling with LRU
 Virtual address: 1026322 Physical address: 75026 Value: 42
-page fault handling with LRU, indexToDelete = 74
-page fault handling with LRU
 Virtual address: 933800 Physical address: 76712 Value: 0
-page fault handling with LRU, indexToDelete = 75
-page fault handling with LRU
 Virtual address: 839380 Physical address: 77524 Value: 0
 Virtual address: 156040 Physical address: 240008 Value: 0
-page fault handling with LRU, indexToDelete = 76
-page fault handling with LRU
 Virtual address: 486748 Physical address: 78172 Value: 0
 Virtual address: 805576 Physical address: 71368 Value: 0
-page fault handling with LRU, indexToDelete = 79
-page fault handling with LRU
 Virtual address: 853652 Physical address: 81556 Value: 0
-page fault handling with LRU, indexToDelete = 80
-page fault handling with LRU
 Virtual address: 470824 Physical address: 82728 Value: 0
-page fault handling with LRU, indexToDelete = 81
-page fault handling with LRU
 Virtual address: 635328 Physical address: 83392 Value: 0
-page fault handling with LRU, indexToDelete = 82
-page fault handling with LRU
 Virtual address: 382377 Physical address: 84393 Value: 0
-page fault handling with LRU, indexToDelete = 83
-page fault handling with LRU
 Virtual address: 869430 Physical address: 85046 Value: 17
-page fault handling with LRU, indexToDelete = 84
-page fault handling with LRU
 Virtual address: 794542 Physical address: 86958 Value: 7
-page fault handling with LRU, indexToDelete = 85
-page fault handling with LRU
 Virtual address: 893187 Physical address: 87299 Value: 64
-page fault handling with LRU, indexToDelete = 86
-page fault handling with LRU
 Virtual address: 430680 Physical address: 88664 Value: 0
-page fault handling with LRU, indexToDelete = 88
-page fault handling with LRU
 Virtual address: 403025 Physical address: 90705 Value: 0
-page fault handling with LRU, indexToDelete = 89
-page fault handling with LRU
 Virtual address: 703749 Physical address: 91397 Value: 0
 Virtual address: 102495 Physical address: 203871 Value: 23
-page fault handling with LRU, indexToDelete = 90
-page fault handling with LRU
 Virtual address: 524682 Physical address: 92554 Value: 0
 Virtual address: 118378 Physical address: 236138 Value: 51
 Virtual address: 123587 Physical address: 68291 Value: -80
-page fault handling with LRU, indexToDelete = 92
-page fault handling with LRU
 Virtual address: 811634 Physical address: 94834 Value: 24
-page fault handling with LRU, indexToDelete = 93
-page fault handling with LRU
 Virtual address: 778834 Physical address: 95826 Value: 56
 Virtual address: 7740 Physical address: 86588 Value: 0
-page fault handling with LRU, indexToDelete = 94
-page fault handling with LRU
 Virtual address: 568473 Physical address: 96409 Value: 0
-page fault handling with LRU, indexToDelete = 96
-page fault handling with LRU
 Virtual address: 470441 Physical address: 98729 Value: 0
 Virtual address: 127031 Physical address: 202807 Value: 13
-page fault handling with LRU, indexToDelete = 99
-page fault handling with LRU
 Virtual address: 212369 Physical address: 101777 Value: 0
-page fault handling with LRU, indexToDelete = 100
-page fault handling with LRU
 Virtual address: 412921 Physical address: 102649 Value: 0
 Virtual address: 569157 Physical address: 97093 Value: 0
-page fault handling with LRU, indexToDelete = 101
-page fault handling with LRU
 Virtual address: 443677 Physical address: 103709 Value: 0
-page fault handling with LRU, indexToDelete = 103
-page fault handling with LRU
 Virtual address: 734154 Physical address: 106442 Value: 12
-page fault handling with LRU, indexToDelete = 104
-page fault handling with LRU
 Virtual address: 609332 Physical address: 106548 Value: 0
 Virtual address: 248397 Physical address: 174669 Value: 0
 Virtual address: 53608 Physical address: 245096 Value: 0
-page fault handling with LRU, indexToDelete = 105
-page fault handling with LRU
 Virtual address: 374362 Physical address: 108122 Value: 45
-page fault handling with LRU, indexToDelete = 106
-page fault handling with LRU
 Virtual address: 411309 Physical address: 109229 Value: 0
-page fault handling with LRU, indexToDelete = 107
-page fault handling with LRU
 Virtual address: 643521 Physical address: 110017 Value: 0
-page fault handling with LRU, indexToDelete = 108
-page fault handling with LRU
 Virtual address: 515583 Physical address: 111103 Value: 127
-page fault handling with LRU, indexToDelete = 109
-page fault handling with LRU
 Virtual address: 25692 Physical address: 111708 Value: 0
-page fault handling with LRU, indexToDelete = 110
-page fault handling with LRU
 Virtual address: 768836 Physical address: 113476 Value: 0
 Virtual address: 99476 Physical address: 186516 Value: 0
-page fault handling with LRU, indexToDelete = 111
-page fault handling with LRU
 Virtual address: 726272 Physical address: 113920 Value: 0
-page fault handling with LRU, indexToDelete = 113
-page fault handling with LRU
 Virtual address: 790777 Physical address: 115961 Value: 0
-page fault handling with LRU, indexToDelete = 114
-page fault handling with LRU
 Virtual address: 554873 Physical address: 117625 Value: 0
-page fault handling with LRU, indexToDelete = 115
-page fault handling with LRU
 Virtual address: 727662 Physical address: 118382 Value: 6
-page fault handling with LRU, indexToDelete = 118
-page fault handling with LRU
 Virtual address: 1020863 Physical address: 121791 Value: -17
-page fault handling with LRU, indexToDelete = 119
-page fault handling with LRU
 Virtual address: 542137 Physical address: 122297 Value: 0
-page fault handling with LRU, indexToDelete = 120
-page fault handling with LRU
 Virtual address: 306449 Physical address: 123153 Value: 0
-page fault handling with LRU, indexToDelete = 121
-page fault handling with LRU
 Virtual address: 268338 Physical address: 123954 Value: 6
-page fault handling with LRU, indexToDelete = 122
-page fault handling with LRU
 Virtual address: 916744 Physical address: 125192 Value: 0
-page fault handling with LRU, indexToDelete = 123
-page fault handling with LRU
 Virtual address: 811175 Physical address: 126119 Value: 41
-page fault handling with LRU, indexToDelete = 124
-page fault handling with LRU
 Virtual address: 388076 Physical address: 127980 Value: 0
-page fault handling with LRU, indexToDelete = 125
-page fault handling with LRU
 Virtual address: 741839 Physical address: 128463 Value: 115
-page fault handling with LRU, indexToDelete = 126
-page fault handling with LRU
 Virtual address: 988542 Physical address: 129406 Value: 5
-page fault handling with LRU, indexToDelete = 42
-page fault handling with LRU
 Virtual address: 762582 Physical address: 43734 Value: 40
-page fault handling with LRU, indexToDelete = 128
-page fault handling with LRU
 Virtual address: 815267 Physical address: 131235 Value: 40
-page fault handling with LRU, indexToDelete = 129
-page fault handling with LRU
 Virtual address: 743649 Physical address: 132321 Value: 0
-page fault handling with LRU, indexToDelete = 130
-page fault handling with LRU
 Virtual address: 339251 Physical address: 133427 Value: 76
-page fault handling with LRU, indexToDelete = 3
-page fault handling with LRU
 Virtual address: 840228 Physical address: 3620 Value: 0
-page fault handling with LRU, indexToDelete = 133
-page fault handling with LRU
 Virtual address: 273775 Physical address: 136559 Value: 91
-page fault handling with LRU, indexToDelete = 134
-page fault handling with LRU
 Virtual address: 878802 Physical address: 137426 Value: 26
-page fault handling with LRU, indexToDelete = 116
-page fault handling with LRU
 Virtual address: 501497 Physical address: 119545 Value: 0
 Virtual address: 154146 Physical address: 150050 Value: 22
 Virtual address: 58333 Physical address: 200669 Value: 0
-page fault handling with LRU, indexToDelete = 135
-page fault handling with LRU
 Virtual address: 1020226 Physical address: 138562 Value: 36
-page fault handling with LRU, indexToDelete = 136
-page fault handling with LRU
 Virtual address: 160339 Physical address: 139859 Value: -108
-page fault handling with LRU, indexToDelete = 138
-page fault handling with LRU
 Virtual address: 1030082 Physical address: 142274 Value: 45
-page fault handling with LRU, indexToDelete = 37
-page fault handling with LRU
 Virtual address: 848761 Physical address: 38777 Value: 0
 Virtual address: 103198 Physical address: 204574 Value: 36
 Virtual address: 136141 Physical address: 234445 Value: 0
-page fault handling with LRU, indexToDelete = 139
-page fault handling with LRU
 Virtual address: 27825 Physical address: 142513 Value: 0
-page fault handling with LRU, indexToDelete = 46
-page fault handling with LRU
 Virtual address: 845166 Physical address: 47470 Value: 57
-page fault handling with LRU, indexToDelete = 78
-page fault handling with LRU
 Virtual address: 494754 Physical address: 80034 Value: 35
-page fault handling with LRU, indexToDelete = 131
-page fault handling with LRU
 Virtual address: 385089 Physical address: 134209 Value: 0
-page fault handling with LRU, indexToDelete = 143
-page fault handling with LRU
 Virtual address: 1031789 Physical address: 147053 Value: 0
-page fault handling with LRU, indexToDelete = 144
-page fault handling with LRU
 Virtual address: 387088 Physical address: 147472 Value: 0
 Virtual address: 119520 Physical address: 110304 Value: 0
-page fault handling with LRU, indexToDelete = 145
-page fault handling with LRU
 Virtual address: 460973 Physical address: 148653 Value: 0
-page fault handling with LRU, indexToDelete = 147
-page fault handling with LRU
 Virtual address: 483794 Physical address: 150994 Value: 24
-page fault handling with LRU, indexToDelete = 150
-page fault handling with LRU
 Virtual address: 371180 Physical address: 154092 Value: 0
-page fault handling with LRU, indexToDelete = 9
-page fault handling with LRU
 Virtual address: 804580 Physical address: 9956 Value: 0
-page fault handling with LRU, indexToDelete = 34
-page fault handling with LRU
 Virtual address: 867399 Physical address: 34887 Value: 17
 Virtual address: 204519 Physical address: 70375 Value: -71
-page fault handling with LRU, indexToDelete = 77
-page fault handling with LRU
 Virtual address: 420000 Physical address: 79008 Value: 0
-page fault handling with LRU, indexToDelete = 98
-page fault handling with LRU
 Virtual address: 1038493 Physical address: 100509 Value: 0
-page fault handling with LRU, indexToDelete = 112
-page fault handling with LRU
 Virtual address: 329160 Physical address: 115144 Value: 0
-page fault handling with LRU, indexToDelete = 151
-page fault handling with LRU
 Virtual address: 14550 Physical address: 154838 Value: 14
-page fault handling with LRU, indexToDelete = 59
-page fault handling with LRU
 Virtual address: 819922 Physical address: 61138 Value: 32
-page fault handling with LRU, indexToDelete = 132
-page fault handling with LRU
 Virtual address: 865969 Physical address: 135857 Value: 0
-page fault handling with LRU, indexToDelete = 149
-page fault handling with LRU
 Virtual address: 309519 Physical address: 152847 Value: 67
-page fault handling with LRU, indexToDelete = 152
-page fault handling with LRU
 Virtual address: 989170 Physical address: 156658 Value: 5
-page fault handling with LRU, indexToDelete = 153
-page fault handling with LRU
 Virtual address: 584167 Physical address: 157159 Value: 121
-page fault handling with LRU, indexToDelete = 63
-page fault handling with LRU
 Virtual address: 696560 Physical address: 64752 Value: 0
-page fault handling with LRU, indexToDelete = 154
-page fault handling with LRU
 Virtual address: 360462 Physical address: 157710 Value: 32
-page fault handling with LRU, indexToDelete = 155
-page fault handling with LRU
 Virtual address: 977662 Physical address: 159486 Value: 58
 Virtual address: 167522 Physical address: 42594 Value: 35
-page fault handling with LRU, indexToDelete = 156
-page fault handling with LRU
 Virtual address: 1000158 Physical address: 160478 Value: 16
-page fault handling with LRU, indexToDelete = 157
-page fault handling with LRU
 Virtual address: 994214 Physical address: 161702 Value: 10
-page fault handling with LRU, indexToDelete = 158
-page fault handling with LRU
 Virtual address: 690622 Physical address: 162238 Value: 34
-page fault handling with LRU, indexToDelete = 159
-page fault handling with LRU
 Virtual address: 171773 Physical address: 163581 Value: 0
-page fault handling with LRU, indexToDelete = 160
-page fault handling with LRU
 Virtual address: 896147 Physical address: 163987 Value: 36
-page fault handling with LRU, indexToDelete = 161
-page fault handling with LRU
 Virtual address: 583563 Physical address: 165771 Value: -30
-page fault handling with LRU, indexToDelete = 162
-page fault handling with LRU
 Virtual address: 337927 Physical address: 165895 Value: 1
-page fault handling with LRU, indexToDelete = 163
-page fault handling with LRU
 Virtual address: 1019326 Physical address: 167358 Value: 35
-page fault handling with LRU, indexToDelete = 166
-page fault handling with LRU
 Virtual address: 15907 Physical address: 170531 Value: -120
-page fault handling with LRU, indexToDelete = 167
-page fault handling with LRU
 Virtual address: 689892 Physical address: 171748 Value: 0
-page fault handling with LRU, indexToDelete = 168
-page fault handling with LRU
 Virtual address: 19679 Physical address: 172255 Value: 55
 Virtual address: 7684 Physical address: 86532 Value: 0
-page fault handling with LRU, indexToDelete = 169
-page fault handling with LRU
 Virtual address: 571300 Physical address: 173988 Value: 0
-page fault handling with LRU, indexToDelete = 171
-page fault handling with LRU
 Virtual address: 562690 Physical address: 175618 Value: 37
-page fault handling with LRU, indexToDelete = 172
-page fault handling with LRU
 Virtual address: 610653 Physical address: 176477 Value: 0
-page fault handling with LRU, indexToDelete = 173
-page fault handling with LRU
 Virtual address: 105291 Physical address: 177995 Value: -46
-page fault handling with LRU, indexToDelete = 174
-page fault handling with LRU
 Virtual address: 481542 Physical address: 178438 Value: 22
-page fault handling with LRU, indexToDelete = 175
-page fault handling with LRU
 Virtual address: 886029 Physical address: 179469 Value: 0
-page fault handling with LRU, indexToDelete = 177
-page fault handling with LRU
 Virtual address: 465418 Physical address: 181770 Value: 6
-page fault handling with LRU, indexToDelete = 178
-page fault handling with LRU
 Virtual address: 170526 Physical address: 182814 Value: 38
 Virtual address: 277991 Physical address: 170471 Value: 121
-page fault handling with LRU, indexToDelete = 179
-page fault handling with LRU
 Virtual address: 288686 Physical address: 184238 Value: 25
-page fault handling with LRU, indexToDelete = 181
-page fault handling with LRU
 Virtual address: 133742 Physical address: 185966 Value: 2
-page fault handling with LRU, indexToDelete = 176
-page fault handling with LRU
 Virtual address: 249028 Physical address: 180420 Value: 0
-page fault handling with LRU, indexToDelete = 148
-page fault handling with LRU
 Virtual address: 377523 Physical address: 152243 Value: -84
-page fault handling with LRU, indexToDelete = 184
-page fault handling with LRU
 Virtual address: 881138 Physical address: 188914 Value: 28
-page fault handling with LRU, indexToDelete = 186
-page fault handling with LRU
 Virtual address: 281230 Physical address: 191118 Value: 18
-page fault handling with LRU, indexToDelete = 188
-page fault handling with LRU
 Virtual address: 854922 Physical address: 193418 Value: 2
-page fault handling with LRU, indexToDelete = 189
-page fault handling with LRU
 Virtual address: 759919 Physical address: 193647 Value: 27
-page fault handling with LRU, indexToDelete = 190
-page fault handling with LRU
 Virtual address: 487406 Physical address: 195566 Value: 27
-page fault handling with LRU, indexToDelete = 191
-page fault handling with LRU
 Virtual address: 996391 Physical address: 195623 Value: 9
 Virtual address: 391 Physical address: 92551 Value: 97
 Virtual address: 209100 Physical address: 105676 Value: 0
-page fault handling with LRU, indexToDelete = 192
-page fault handling with LRU
 Virtual address: 587247 Physical address: 197103 Value: 123
-page fault handling with LRU, indexToDelete = 193
-page fault handling with LRU
 Virtual address: 311403 Physical address: 197739 Value: 26
 Virtual address: 246002 Physical address: 241906 Value: 48
-page fault handling with LRU, indexToDelete = 194
-page fault handling with LRU
 Virtual address: 71780 Physical address: 198756 Value: 0
 Virtual address: 95707 Physical address: 220635 Value: 118
-page fault handling with LRU, indexToDelete = 196
-page fault handling with LRU
 Virtual address: 163293 Physical address: 201181 Value: 0
-page fault handling with LRU, indexToDelete = 197
-page fault handling with LRU
 Virtual address: 434034 Physical address: 202610 Value: 39
-page fault handling with LRU, indexToDelete = 201
-page fault handling with LRU
 Virtual address: 730810 Physical address: 206522 Value: 9
-page fault handling with LRU, indexToDelete = 36
-page fault handling with LRU
 Virtual address: 870875 Physical address: 37339 Value: 118
-page fault handling with LRU, indexToDelete = 202
-page fault handling with LRU
 Virtual address: 1014529 Physical address: 207617 Value: 0
-page fault handling with LRU, indexToDelete = 203
-page fault handling with LRU
 Virtual address: 563343 Physical address: 208015 Value: 35
 Virtual address: 1010988 Physical address: 194860 Value: 0
 Virtual address: 173970 Physical address: 21394 Value: 41
-page fault handling with LRU, indexToDelete = 200
-page fault handling with LRU
 Virtual address: 656520 Physical address: 204936 Value: 0
 Virtual address: 85273 Physical address: 106777 Value: 0
 Virtual address: 181481 Physical address: 103657 Value: 0
-page fault handling with LRU, indexToDelete = 204
-page fault handling with LRU
 Virtual address: 866305 Physical address: 208897 Value: 0
-page fault handling with LRU, indexToDelete = 205
-page fault handling with LRU
 Virtual address: 465352 Physical address: 210376 Value: 0
-page fault handling with LRU, indexToDelete = 206
-page fault handling with LRU
 Virtual address: 432392 Physical address: 211208 Value: 0
-page fault handling with LRU, indexToDelete = 207
-page fault handling with LRU
 Virtual address: 916271 Physical address: 212783 Value: -53
-page fault handling with LRU, indexToDelete = 208
-page fault handling with LRU
 Virtual address: 753029 Physical address: 213381 Value: 0
-page fault handling with LRU, indexToDelete = 209
-page fault handling with LRU
 Virtual address: 677480 Physical address: 214632 Value: 0
-page fault handling with LRU, indexToDelete = 210
-page fault handling with LRU
 Virtual address: 476995 Physical address: 215875 Value: -48
 Virtual address: 415260 Physical address: 214556 Value: 0
-page fault handling with LRU, indexToDelete = 211
-page fault handling with LRU
 Virtual address: 88876 Physical address: 216876 Value: 0
-page fault handling with LRU, indexToDelete = 212
-page fault handling with LRU
 Virtual address: 589991 Physical address: 217255 Value: 41
-page fault handling with LRU, indexToDelete = 213
-page fault handling with LRU
 Virtual address: 136203 Physical address: 218123 Value: 2
 Virtual address: 81677 Physical address: 252685 Value: 0
-page fault handling with LRU, indexToDelete = 214
-page fault handling with LRU
 Virtual address: 316760 Physical address: 219480 Value: 0
 Virtual address: 203705 Physical address: 210873 Value: 0
 Virtual address: 73847 Physical address: 253047 Value: 29
-page fault handling with LRU, indexToDelete = 216
-page fault handling with LRU
 Virtual address: 723514 Physical address: 221754 Value: 2
-page fault handling with LRU, indexToDelete = 217
-page fault handling with LRU
 Virtual address: 570463 Physical address: 222303 Value: 23
-page fault handling with LRU, indexToDelete = 219
-page fault handling with LRU
 Virtual address: 462398 Physical address: 224830 Value: 3
-page fault handling with LRU, indexToDelete = 220
-page fault handling with LRU
 Virtual address: 643337 Physical address: 225545 Value: 0
 Virtual address: 260397 Physical address: 6445 Value: 0
-page fault handling with LRU, indexToDelete = 221
-page fault handling with LRU
 Virtual address: 752292 Physical address: 226980 Value: 0
-page fault handling with LRU, indexToDelete = 222
-page fault handling with LRU
 Virtual address: 584076 Physical address: 227724 Value: 0
-page fault handling with LRU, indexToDelete = 5
-page fault handling with LRU
 Virtual address: 486173 Physical address: 5917 Value: 0
 Virtual address: 49238 Physical address: 197718 Value: 48
-page fault handling with LRU, indexToDelete = 223
-page fault handling with LRU
 Virtual address: 164309 Physical address: 228821 Value: 0
-page fault handling with LRU, indexToDelete = 224
-page fault handling with LRU
 Virtual address: 575213 Physical address: 230125 Value: 0
-page fault handling with LRU, indexToDelete = 225
-page fault handling with LRU
 Virtual address: 921457 Physical address: 231281 Value: 0
 Virtual address: 98518 Physical address: 254166 Value: 32
-page fault handling with LRU, indexToDelete = 43
-page fault handling with LRU
 Virtual address: 452120 Physical address: 44568 Value: 0
-page fault handling with LRU, indexToDelete = 165
-page fault handling with LRU
 Virtual address: 825620 Physical address: 169236 Value: 0
-page fault handling with LRU, indexToDelete = 226
-page fault handling with LRU
 Virtual address: 614356 Physical address: 232404 Value: 0
-page fault handling with LRU, indexToDelete = 227
-page fault handling with LRU
 Virtual address: 998853 Physical address: 232901 Value: 0
 Virtual address: 72230 Physical address: 199206 Value: 6
-page fault handling with LRU, indexToDelete = 164
-page fault handling with LRU
 Virtual address: 625910 Physical address: 168182 Value: 35
-page fault handling with LRU, indexToDelete = 229
-page fault handling with LRU
 Virtual address: 1003500 Physical address: 235500 Value: 0
-page fault handling with LRU, indexToDelete = 35
-page fault handling with LRU
 Virtual address: 873601 Physical address: 35969 Value: 0
-page fault handling with LRU, indexToDelete = 97
-page fault handling with LRU
 Virtual address: 516620 Physical address: 99852 Value: 0
-page fault handling with LRU, indexToDelete = 137
-page fault handling with LRU
 Virtual address: 542687 Physical address: 141279 Value: -9
 Virtual address: 120720 Physical address: 84880 Value: 0
 Virtual address: 84183 Physical address: 37079 Value: 53
-page fault handling with LRU, indexToDelete = 231
-page fault handling with LRU
 Virtual address: 579119 Physical address: 237103 Value: -117
-page fault handling with LRU, indexToDelete = 232
-page fault handling with LRU
 Virtual address: 402096 Physical address: 238256 Value: 0
-page fault handling with LRU, indexToDelete = 233
-page fault handling with LRU
 Virtual address: 453684 Physical address: 238644 Value: 0
-page fault handling with LRU, indexToDelete = 235
-page fault handling with LRU
 Virtual address: 387498 Physical address: 241066 Value: 58
 Virtual address: 30789 Physical address: 15429 Value: 0
 Virtual address: 66531 Physical address: 218083 Value: -8
-page fault handling with LRU, indexToDelete = 237
-page fault handling with LRU
 Virtual address: 928668 Physical address: 243612 Value: 0
-page fault handling with LRU, indexToDelete = 95
-page fault handling with LRU
 Virtual address: 900457 Physical address: 97641 Value: 0
-page fault handling with LRU, indexToDelete = 241
-page fault handling with LRU
 Virtual address: 796446 Physical address: 247582 Value: 9
-page fault handling with LRU, indexToDelete = 242
-page fault handling with LRU
 Virtual address: 414541 Physical address: 248653 Value: 0
 Virtual address: 65714 Physical address: 217266 Value: 0
-page fault handling with LRU, indexToDelete = 243
-page fault handling with LRU
 Virtual address: 667527 Physical address: 249735 Value: -31
-page fault handling with LRU, indexToDelete = 244
-page fault handling with LRU
 Virtual address: 347755 Physical address: 250475 Value: -102
 Number of Translated Addresses = 1000
 Page Faults = 468
